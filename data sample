@@ -1,0 +1,10 @@
+AI-Chem-Eval/
+│
+├── requirements.txt
+├── data/
+│   └── sample_reaction_data.csv
+├── notebooks/
+│   └── reaction_validation_demo.ipynb
+├── scripts/
+│   └── evaluate_outputs.py
+└── results/
